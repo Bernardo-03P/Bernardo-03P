@@ -25,7 +25,7 @@ Aplicação local para organizar vagas de tecnologia e adaptar currículos com m
 
 **Stack:** Python, FastAPI, PostgreSQL, Next.js, React, TypeScript, Docker, LLMs, Pytest e Playwright.
 
-*Projeto de uso local · repositório privado.*
+[Ver código e documentação](https://github.com/Bernardo-03P/job_radar)
 
 ### Trekit · Compartilhamento de trilhas
 
