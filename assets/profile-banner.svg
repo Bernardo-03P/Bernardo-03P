@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
+  <title id="title">Bernardo Poluceno — software, dados e IA</title>
+  <desc id="description">Cabeçalho em azul escuro com detalhes em verde e três áreas de interesse: software, dados e inteligência artificial.</desc>
+  <defs>
+    <linearGradient id="background" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="280">
+      <stop offset="0" stop-color="#101c30"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#34465d" stroke-width="0.6" opacity="0.24"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <path d="M0 0H8V280H0Z" fill="#7ee6bf"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="52" y="58" fill="#7ee6bf" font-size="14" font-weight="600" letter-spacing="3">BERNARDO POLUCENO</text>
+    <text x="48" y="132" fill="#f1f5f9" font-size="56" font-weight="700" letter-spacing="-1.8">Software, dados e IA.</text>
+    <text x="52" y="174" fill="#b5c3d7" font-size="20">Aprendizado que se transforma em projetos.</text>
+    <rect x="52" y="211" width="106" height="30" rx="15" fill="#1c3541" stroke="#2b625e"/>
+    <text x="105" y="231" fill="#99edd1" font-size="12" text-anchor="middle" font-weight="600">DADOS E IA</text>
+    <rect x="168" y="211" width="138" height="30" rx="15" fill="#1a2a42" stroke="#314c71"/>
+    <text x="237" y="231" fill="#bbd9ff" font-size="12" text-anchor="middle" font-weight="600">APIs E SISTEMAS</text>
+    <rect x="316" y="211" width="138" height="30" rx="15" fill="#25233b" stroke="#494061"/>
+    <text x="385" y="231" fill="#d9cef8" font-size="12" text-anchor="middle" font-weight="600">AUTOMAÇÃO</text>
+  </g>
+  <g transform="translate(865 49)" font-family="Segoe UI, Arial, sans-serif">
+    <rect width="280" height="184" rx="14" fill="#101b2d" stroke="#2a3e57"/>
+    <path d="M24 47H256M24 102H256" stroke="#26384f"/>
+    <g fill="#7ee6bf">
+      <circle cx="29" cy="25" r="4"/>
+      <circle cx="29" cy="75" r="4"/>
+      <circle cx="29" cy="130" r="4"/>
+    </g>
+    <g fill="#e2e8f0" font-size="16" font-weight="600">
+      <text x="46" y="31">Código com propósito</text>
+      <text x="46" y="81">Dados com contexto</text>
+      <text x="46" y="136">IA com validação</text>
+    </g>
+    <text x="24" y="166" fill="#91a4be" font-size="12">CONSTRUIR · TESTAR · APRENDER</text>
+  </g>
+</svg>
