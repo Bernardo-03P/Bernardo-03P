@@ -49,7 +49,9 @@ Aplicação web com interface responsiva e gerenciamento de depoimentos, conecta
 
 **Stack:** React, CSS, Axios, Node.js, Express e PostgreSQL.
 
-[Ver front-end](https://github.com/Bernardo-03P/VCR-Front) · [Ver back-end](https://github.com/Bernardo-03P/VCR-Back)
+[Ver front-end](https://github.com/Bernardo-03P/VCR-Front)
+
+*Back-end preservado em repositório privado.*
 
 ---
 
